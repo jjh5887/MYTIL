@@ -1,0 +1,15 @@
+#include <iostream>
+#include <vector>
+
+int main()
+{
+	int n;
+	std::cout << "원하는 수를 입력해: ";
+	std::cin >> n;
+	std::vector<int>temp;
+	std::vector<std::vector<int>> dice = { {1,2,3,4,5,6},{1,2,3,4,5,6} };
+	for (auto i : dice[0])
+		for (auto k : dice[1])
+			if (i + k == n)
+				std::cout << i << " " << k << std::endl;
+}
