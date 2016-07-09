@@ -1,0 +1,23 @@
+2006 The Departed; Martin Scorsese
+2007  No Country for Old Men; Joel Coen, Ethan Coen
+2008    Slumdog Millionaire; Danny Boyle
+2009  The Hurt Locker; Kathryn Bigelow
+2010 The King's Speech; Tom Hooper
+2011   The Artist; Michel Hazanavicius
+2012 Life of Pi; Ang Lee
+2013     Gravity; Alfonso Cuaron
+2014  Birdman or (The Unexpected Virtue of Ignorance); Alejandro G. Inarritu
+2015    The Revenant; Alejandro G. Inarritu 
+
+<화면에출력>
+1.year :
+ title :
+ director :
+2.year :
+ title :
+ director :
+<파일출력> -> outpics.txt 로 만들기
+2006_xxxxx;xxxxx (엔터)
+
+2.
+employee객체를 추상화하고 은닉화 할 것

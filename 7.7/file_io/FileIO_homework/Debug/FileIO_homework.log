@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\c++\homework\fileio_homework\fileio_homework\소스.cpp(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\c++\homework\fileio_homework\fileio_homework\소스.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\c++\homework\fileio_homework\fileio_homework\소스.cpp(25): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+  FileIO_homework.vcxproj -> C:\c++\homework\FileIO_homework\Debug\FileIO_homework.exe
