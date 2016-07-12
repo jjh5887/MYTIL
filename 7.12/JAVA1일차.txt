@@ -1,0 +1,37 @@
+자바는 기본적으로 객체 지향 언어 (OOP)
+
+1. Hello World
+
+public calss TestClass {
+	public static void main(String[] args) {
+	   Ststem.out.println("Hello Woeld");
+	   }
+}
+
+C언어에서 main함수가 꼭 있듯이
+자바도 꼭 main메소드가 필요!
+
+
+자바는 항상 public class가 존재한다!
+
+
+public static void main(String[] args) -> 메인 메소드
+
+public calss TestClass 에서 TestClass이름 변경 불가!
+
+자바 클래스 파일의 이름이 변경되면 바꿀 수 있다!
+단! 병경하려면 자바 클래스 파일의 이름을 따라가야한다!
+
+TestClass.java의 이름을 OneClass.java로 변경하면
+public calss TestClass -> public calss OneClass
+로 무조건 병경해야함!
+
+public static void main(String[] args) 는 main 메소드의 내용!
+
+public class TestClass 의 {} 는 TestClass의 내용!
+
+
+2. 변수 선언 및 초기화
+
+이것은 기본적인 C언어와 동일함으로 정리 x!
+
