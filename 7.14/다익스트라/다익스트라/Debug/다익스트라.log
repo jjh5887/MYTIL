@@ -1,4 +1,4 @@
 ﻿  소스.cpp
-c:\c++\data_structure\다익스트라\다익스트라\소스.cpp(143): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+c:\users\jung\desktop\til\7.14\다익스트라\다익스트라\소스.cpp(138): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: '_sleep' 선언을 참조하십시오.
-  다익스트라.vcxproj -> C:\c++\data_structure\다익스트라\Debug\다익스트라.exe
+  다익스트라.vcxproj -> C:\Users\jung\Desktop\TIL\7.14\다익스트라\Debug\다익스트라.exe
