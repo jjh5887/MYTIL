@@ -1,0 +1,42 @@
+자바 2일차
+
+print 와 println의차이
+-> 바로 print는그냥 출력문이고 println은 출력하고 한칸 내림 (줄바꿈)
+
+하지만 print도 \n으로도 가능
+
+
+자바의 자료형
+
+Primitive Type(원시타입) : 기본적으로 자바에서 제공하는 자료형!
+
+Reference Type(레퍼런스 타입) : 객체지향 프로그래밍 자바의 핵심!
+우리가 직접 만드는 자료형!
+
+c++과 다른 자료형 boolean 이게 c++의 bool과 같음
+
+
+실수 계산의 오차
+
+자바에서는 기본적으로 실수계산의 오차가 있다
+
+소수점 2번째 혹은 3번째 자리부터 오차가 난다!
+
+그에 대한 방안으로 BigDecimal클래스가 존재한다!(이것은 나중에!)
+
+
+오늘의 문제
+
+double형 실수 2개를 만들어 두 수를 더하고 그 값을 출력
+int형 실수 2개를 만들어 두 수를 빼고 그 값을 출력
+
+public class TestClass {
+	public static void main(){
+	    double a = 3.5, b = 6.9;
+            System.out.println(a+b);
+	    int c = 9, d = 4;
+	    int e = c - d;
+	    System.out.println(e);
+	    }
+}
+ 
