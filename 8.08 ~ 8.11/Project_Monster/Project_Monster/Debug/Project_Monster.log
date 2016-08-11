@@ -1,0 +1,16 @@
+﻿  Miro.cpp
+c:\c++\project_monster\project_monster\playermanager.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\c++\project_monster\project_monster\event.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\c++\project_monster\project_monster\battle.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\c++\project_monster\project_monster\miro.cpp(230): warning C4305: '=': 'int'에서 'bool'(으)로 잘립니다.
+c:\c++\project_monster\project_monster\miro.cpp(130): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: '_sleep' 선언을 참조하십시오.
+c:\c++\project_monster\project_monster\miro.cpp(155): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: '_sleep' 선언을 참조하십시오.
+c:\c++\project_monster\project_monster\miro.cpp(180): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: '_sleep' 선언을 참조하십시오.
+c:\c++\project_monster\project_monster\miro.cpp(205): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: '_sleep' 선언을 참조하십시오.
+c:\c++\project_monster\project_monster\miro.cpp(234): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 'itoa' 선언을 참조하십시오.
+  Project_Monster.vcxproj -> C:\c++\Project_Monster\Debug\Project_Monster.exe
